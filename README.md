@@ -1,1 +1,2 @@
-# recetario-evirtual-gh1
+Link publicación website:
+https://recetarioweb.netlify.app/
